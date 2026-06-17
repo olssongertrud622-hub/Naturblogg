@@ -47,7 +47,10 @@ body {
 .card:hover {
   transform: translateY(-3px);
 }
-
+.card h2 {
+  margin-top: 0;
+  color: #b7e4c7;
+}
 footer {
   text-align: center;
   padding: 30px;
