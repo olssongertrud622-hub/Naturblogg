@@ -100,3 +100,10 @@ h1 {
   color: darkgreen;
   text-align: center;
 }
+.intro {
+  text-align: center;
+  font-size: 18px;
+  max-width: 600px;
+  margin: 20px auto;
+  color: #444;
+}
