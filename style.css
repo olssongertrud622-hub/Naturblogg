@@ -10,9 +10,12 @@ body {
 }
 
 .hero {
+  .hero {
   text-align: center;
-  padding: 80px 20px;
+  padding: 90px 20px;
   background: linear-gradient(135deg, #1b4332, #081c15);
+  border-bottom: 2px solid rgba(255,255,255,0.1);
+}
 }
 
 .hero h1 {
