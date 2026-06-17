@@ -20,6 +20,9 @@ index.html
 
 <header class="hero">
   <h1>🌿 Nordic Wild</h1>
+<p class="intro">
+  Välkommen till Nordic Wild 🌿 Här delar jag naturbilder och upplevelser från skogar, sjöar och fjäll.
+</p>
   <p>Tankar, bilder och upplevelser från naturen</p>
 </header>
 
