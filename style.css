@@ -57,3 +57,10 @@ footer {
   opacity: 0.6;
   font-size: 0.9em;
 }
+a {
+  color: #95d5b2;
+}
+
+a:hover {
+  text-decoration: underline;
+}
