@@ -19,7 +19,7 @@ index.html
 </nav>
 
 <header class="hero">
-  Nature blog project - Nordic Wild 🌿
+  <h1>🌿 Nordic Wild</h1>
   <p>Tankar, bilder och upplevelser från naturen</p>
 </header>
 
