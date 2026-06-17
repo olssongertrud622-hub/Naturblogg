@@ -95,3 +95,8 @@ nav button {
     grid-template-columns: 1fr;
   }
 }
+h1 {
+  font-size: 40px;
+  color: darkgreen;
+  text-align: center;
+}
