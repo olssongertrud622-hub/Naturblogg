@@ -41,12 +41,7 @@ body {
   object-fit: cover;
   display: block;
 }
-}
 
-.card h2 {
-  margin: 15px;
-  color: #b7e4c7;
-}
 
 .card p {
   margin: 0 15px 15px;
