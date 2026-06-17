@@ -1,66 +1,57 @@
 body {
-  border: 5px solid red;
-}
-body {
   margin: 0;
   font-family: Arial, sans-serif;
   background: #0f1a14;
   color: #e8f5e9;
-  line-height: 1.6;
 }
 
 .hero {
-  .hero {
   text-align: center;
-  padding: 90px 20px;
+  padding: 70px 20px;
   background: linear-gradient(135deg, #1b4332, #081c15);
-  border-bottom: 2px solid rgba(255,255,255,0.1);
-}
 }
 
 .hero h1 {
-  font-size: 3.2em;
+  font-size: 3em;
   margin: 0;
 }
 
 .hero p {
   opacity: 0.8;
-  margin-top: 10px;
 }
 
 .content {
-  display: grid;
-  gap: 20px;
-  padding: 30px 20px;
   max-width: 800px;
   margin: auto;
+  padding: 20px;
+  display: grid;
+  gap: 20px;
 }
 
 .card {
   background: #1b2f23;
-  padding: 25px;
   border-radius: 12px;
+  overflow: hidden;
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-  transition: transform 0.2s ease;
 }
 
-.card:hover {
-  transform: translateY(-3px);
+.card img {
+  width: 100%;
+  display: block;
 }
+
 .card h2 {
-  margin-top: 0;
+  margin: 15px;
   color: #b7e4c7;
 }
+
+.card p {
+  margin: 0 15px 15px;
+  opacity: 0.9;
+}
+
 footer {
   text-align: center;
   padding: 30px;
   opacity: 0.6;
-  font-size: 0.9em;
-}
-a {
-  color: #95d5b2;
-}
-
-a:hover {
-  text-decoration: underline;
 }
